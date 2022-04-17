@@ -1,0 +1,50 @@
+*{
+    font-family: sans-serif;
+    line-height: 140%;
+}
+
+#header
+{
+    border: black solid 1px ;
+    margin-bottom: 1%;
+}
+
+#name {
+	font-size: 25px;
+	font-family: Verdana, sans-serif;
+    margin: 1%;
+}
+
+.container
+{
+    border: black solid 1px;
+    display: flex;
+}
+
+.title{
+    display: flex;
+}
+
+.title img{
+    width: 10%;
+    height: auto;
+    margin-right: 3%;
+}
+
+.container2{
+    margin: 1%;    
+    width: 70%;
+}
+
+.sidebar{
+    width: 30%;
+    padding-right: 40px;
+    background-color: #f1f1f1;
+    margin: 2%;
+}
+
+li{
+    list-style: none;
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
